@@ -1,2 +1,2 @@
-# Bharat-intern-task-1-Video-Conferencing-Website
-Video Conferencing Website
+# BharatIntern
+Virtual Internship Tasks for Bharat Internship in Full Stack Development
